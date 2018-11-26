@@ -29,4 +29,3 @@ def count_elements(array)
   
 
 
-
